@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of the American Statistical Association"
-publication_short: ""
+publication_short: "JASA"
 
 #abstract: 
 
