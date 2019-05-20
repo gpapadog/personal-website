@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabrizia Mealli on Georgia Papadogeorgou</title>
+    <link>https://gpapadog.github.io/authors/fabrizia-mealli/</link>
+    <description>Recent content in Fabrizia Mealli on Georgia Papadogeorgou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gpapadog.github.io/authors/fabrizia-mealli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Causal inference with interfering units for cluster and population level treatment allocation programs</title>
+      <link>https://gpapadog.github.io/publication/interference/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/publication/interference/</guid>
+      <description>Causal inference with interference for realistic treatment allocation programs. Evaluating the comparitive effectiveness of power plant emission reduction strategies for reducing ambient ozone concentrations.</description>
+    </item>
+    
+  </channel>
+</rss>

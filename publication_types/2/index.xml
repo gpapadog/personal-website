@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Georgia Papadogeorgou</title>
+    <link>https://gpapadog.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Georgia Papadogeorgou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gpapadog.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Low Levels of Air Pollution and Health: Effect Estimates, Methodological Challenges, and Future Directions</title>
+      <link>https://gpapadog.github.io/publication/review/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/publication/review/</guid>
+      <description>A review of the literature on the health effects of exposure to low levels of particulate matter.</description>
+    </item>
+    
+    <item>
+      <title>Discussion of &#39;Penalized Spline of Propensity Methods for Treatment Comparison&#39;</title>
+      <link>https://gpapadog.github.io/publication/jasa_discussion/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/publication/jasa_discussion/</guid>
+      <description>Click the Cite button above to demo the feature to enable visitors to import publication metadata into their reference management software.    Click the Slides button above to demo Academic&amp;rsquo;s Markdown slides feature.   Supplementary notes can be added here, including code and math.</description>
+    </item>
+    
+    <item>
+      <title>Causal inference with interfering units for cluster and population level treatment allocation programs</title>
+      <link>https://gpapadog.github.io/publication/interference/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/publication/interference/</guid>
+      <description>Causal inference with interference for realistic treatment allocation programs. Evaluating the comparitive effectiveness of power plant emission reduction strategies for reducing ambient ozone concentrations.</description>
+    </item>
+    
+    <item>
+      <title>Adjusting for unmeasured spatial confounding with distance adjusted propensity score matching</title>
+      <link>https://gpapadog.github.io/publication/dapsm/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/publication/dapsm/</guid>
+      <description>Incorporating geographical distance in a propensity score matching approach to account for unmeasured confounding by spatial variables.</description>
+    </item>
+    
+  </channel>
+</rss>

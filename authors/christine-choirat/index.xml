@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christine Choirat on Georgia Papadogeorgou</title>
+    <link>https://gpapadog.github.io/authors/christine-choirat/</link>
+    <description>Recent content in Christine Choirat on Georgia Papadogeorgou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gpapadog.github.io/authors/christine-choirat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adjusting for unmeasured spatial confounding with distance adjusted propensity score matching</title>
+      <link>https://gpapadog.github.io/publication/dapsm/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/publication/dapsm/</guid>
+      <description>Incorporating geographical distance in a propensity score matching approach to account for unmeasured confounding by spatial variables.</description>
+    </item>
+    
+  </channel>
+</rss>

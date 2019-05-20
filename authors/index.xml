@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Georgia Papadogeorgou</title>
+    <link>https://gpapadog.github.io/authors/</link>
+    <description>Recent content in Authors on Georgia Papadogeorgou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gpapadog.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://gpapadog.github.io/authors/admin/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/authors/admin/</guid>
+      <description>I am currently a postdoctoral associate at the department of Statistical Science at Duke University working under the mentorship of professors David Dunson and Fan Li. Previously, I completed my PhD at Harvard University working with professors Francesca Dominici and Corwn Zigler.
+My research interest lie broadly in the fields of causal inference and Bayesian modeling. I am particularly motivated in providing useful, applicable, and creative solutions to important scientific questions, and in developing tools that allow researchers to analyze data properly and flexibly.</description>
+    </item>
+    
+    <item>
+      <title>Antonella Zanobetti</title>
+      <link>https://gpapadog.github.io/authors/antonella-zanobetti/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/authors/antonella-zanobetti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danielle Braun</title>
+      <link>https://gpapadog.github.io/authors/danielle-braun/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/authors/danielle-braun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marianthi-Anna Kioumourtzoglou</title>
+      <link>https://gpapadog.github.io/authors/marianthi-anna-kioumourtzoglou/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/authors/marianthi-anna-kioumourtzoglou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fan Li</title>
+      <link>https://gpapadog.github.io/authors/fan-li/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/authors/fan-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francesca Dominici</title>
+      <link>https://gpapadog.github.io/authors/francesca-dominici/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/authors/francesca-dominici/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corwin M. Zigler</title>
+      <link>https://gpapadog.github.io/authors/corwin-m.-zigler/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/authors/corwin-m.-zigler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabrizia Mealli</title>
+      <link>https://gpapadog.github.io/authors/fabrizia-mealli/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/authors/fabrizia-mealli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christine Choirat</title>
+      <link>https://gpapadog.github.io/authors/christine-choirat/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpapadog.github.io/authors/christine-choirat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
