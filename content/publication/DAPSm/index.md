@@ -31,11 +31,13 @@ featured: false
 links:
 - name: "Journal"
   url: https://academic.oup.com/biostatistics/article/20/2/256/4818356
+- name: "R package"
+  url: https://github.com/gpapadog/DAPSm
 - name: "Slides"
   url: files/daps_interference_slides.pdf
 url_pdf: files/dapsm.pdf 
 #url_pdf: https://arxiv.org/abs/1610.07583
-url_code: https://github.com/gpapadog/DAPSm
+url_code: ''
 url_dataset: https://dataverse.harvard.edu/dataverse/dapsm
 url_poster: ''
 url_project: ''
