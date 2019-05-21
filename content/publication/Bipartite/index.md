@@ -29,7 +29,9 @@ tags:
 featured: false
 
 links:
-url_pdf: https://arxiv.org/abs/1807.08660
+- name: "Arxiv"
+  url: https://arxiv.org/abs/1807.08660
+url_pdf: files/bipartite.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

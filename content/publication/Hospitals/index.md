@@ -33,7 +33,9 @@ tags:
 featured: false
 
 links:
-url_pdf: https://arxiv.org/abs/1809.09590
+- name: "Arxiv"
+  url: https://arxiv.org/abs/1809.09590
+url_pdf: files/hospitals.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
