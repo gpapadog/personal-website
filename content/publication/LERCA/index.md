@@ -24,8 +24,8 @@ abstract: In the last two decades, ambient levels of air pollution have declined
 # Summary. An optional shortened abstract.
 summary: Causal exposure-response curve estimation with local confonding adjustment. Different variables confound the exposure-response relationship at different exposure levels.
 
-tags:
-- Source Themes
+tags: []
+# - Source Themes
 featured: false
 
 links:

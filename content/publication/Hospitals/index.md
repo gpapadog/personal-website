@@ -28,8 +28,7 @@ abstract: Estimating causal effects of the Hospital Readmissions Reduction Progr
 # Summary. An optional shortened abstract.
 summary: Estimating the causal effect of the Hospital Readmissions Reduction on program on patient readmission and mortality rates.
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 links:
