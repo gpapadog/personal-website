@@ -68,11 +68,11 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoctoral associate at the department of Statistical Science at Duke University working under the mentorship of professors David Dunson and Fan Li. Previously, I completed my PhD at Harvard University working with professors Francesca Dominici and Corwn Zigler.
+I am currently a postdoctoral associate at the department of Statistical Science at Duke University working under the mentorship of professors David Dunson and Fan Li. Previously, I completed my PhD at Harvard University working with professors Francesca Dominici and Corwin Zigler.
 
-My research interest lie broadly in the fields of causal inference and Bayesian modeling.
+My research interests lie broadly in the fields of causal inference and Bayesian modeling.
 I am particularly motivated in providing useful, applicable, and creative solutions to important scientific questions,
-and in developing tools that allow researchers to analyze data properly and flexibly..
+and in developing tools that allow researchers to analyze data properly and flexibly.
 
 When I'm not working on statistics, I enjoy running and, more recently, rock climbing.
 I love traveling and learning new languages. Within the next few years, I'm hoping to spend time hiking in Mongolia.
