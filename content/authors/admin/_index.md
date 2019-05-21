@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include causal inference and flexible Bayesian modeling.
 
 interests:
 - Causal inference
 - Flexible modeling
 - Policy evaluation
+- Air pollution
 
 education:
   courses:
