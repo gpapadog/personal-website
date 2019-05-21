@@ -26,8 +26,7 @@ abstract: Interference arises when an individual's potential outcome depends on 
 # Summary. An optional shortened abstract.
 summary: Causal inference with interference for realistic treatment allocation programs. Evaluating the comparitive effectiveness of power plant emission reduction strategies for reducing ambient ozone concentrations.
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 links:
