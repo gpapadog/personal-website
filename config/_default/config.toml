@@ -16,7 +16,7 @@ baseurl = "https://gpapadogeorgou.netlify.com/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-140639034-1"
+googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
