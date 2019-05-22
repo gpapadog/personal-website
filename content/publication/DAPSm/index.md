@@ -25,7 +25,8 @@ abstract: Propensity score matching is a common tool for adjusting for observed 
 # Summary. An optional shortened abstract.
 summary: Incorporating geographical distance in a propensity score matching approach to account for unmeasured confounding by spatial variables. 
 
-tags: []
+tags:
+- Source Themes
 featured: false
 
 links:

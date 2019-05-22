@@ -24,7 +24,8 @@ abstract: Statistical methods to evaluate the effectiveness of interventions are
 # Summary. An optional shortened abstract.
 summary: Extending causal inference in the presence of interference to bipartite settings where the interventional units are different from the outcome units.
 
-tags: []
+tags:
+- Source Themes
 featured: false
 
 links:
