@@ -32,13 +32,12 @@ featured: false
 links:
 - name: "Journal"
   url: https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13049
-- name: "Package"
+- name: "R package"
   url: https://github.com/gpapadog/Interference
 - name: "Slides"
   url: files/daps_interference_slides.pdf
 url_pdf: files/Interference.pdf
-#url_pdf: 
-url_code: 
+url_code: '' 
 url_dataset: https://dataverse.harvard.edu/dataverse/dapsm
 url_poster: ''
 url_project: ''
