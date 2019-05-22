@@ -29,7 +29,7 @@ tags: []
 featured: false
 
 links:
-- name: "R-package"
+- name: "a"
   url: https://github.com/gpapadog/LERCA
 url_pdf: https://arxiv.org/abs/1806.00928
 url_code: ''
