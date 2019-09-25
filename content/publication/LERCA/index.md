@@ -31,7 +31,9 @@ featured: false
 links:
 - name: "R package"
   url: https://github.com/gpapadog/LERCA
-url_pdf: https://arxiv.org/abs/1806.00928
+- name: "arXiv"
+  url: https://arxiv.org/abs/1806.00928
+# url_pdf: files/
 #url_code: https://github.com/gpapadog/LERCA
 url_dataset: ''
 url_poster: ''
