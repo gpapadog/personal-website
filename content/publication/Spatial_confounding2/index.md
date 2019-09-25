@@ -29,8 +29,10 @@ tags:
 featured: false
 
 links:
-- name: "Arxiv"
+- name: "arXiv"
   url: https://arxiv.org/abs/1907.12150
+- name: "Slides"
+  url: files/slides_SpatialConfounding2.pdf
 # url_pdf: files/hospitals.pdf
 url_code: 'https://github.com/schnellp/causal-spatial'
 url_dataset: 'https://github.com/schnellp/causal-spatial'
