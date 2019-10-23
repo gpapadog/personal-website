@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under review."
-publication_short: "Under review."
+publication: ""
+publication_short: ""
 
 abstract: Confounding by unmeasured spatial variables has received some attention in the spatial statistics and causal inference literatures, but concepts and approaches have remained largely separated. In this paper, we aim to bridge these distinct strands of statistics by considering unmeasured spatial confounding within a formal causal inference framework, and estimating effects using modifications of outcome regression tools popular within the spatial literature. First, we show that using spatially correlated random effects in the outcome model, an approach common among spatial statisticians, does not mitigate bias due to spatial confounding. Motivated by the bias term of commonly-used estimators, we propose an affine estimator which addresses this deficiency. We discuss how unbiased estimation of causal parameters in the presence of unmeasured spatial confounding can only be achieved under an untestable set of assumptions which will often be application-specific. We provide one set of assumptions that is sufficient for identification of the causal effect based on the observed data. These assumptions describe how the exposure and outcome of interest relate to the unmeasured variables. Estimation of the model components necessary for unbiased estimation of the causal effect proceeds using tools common in the spatial statistics literature, and specifically via a regularized restricted maximum likelihood approach employing weakly informative priors to avoid degenerate estimates. This work is motivated by and used to estimate the causal effect of county-level (a) exposure to emissions from coal-powered electricity generating units, and (b) relative humidity on particulate matter across the New England area in the United States, and to investigate the potential threat from unmeasured spatial confounders in this context.
 
