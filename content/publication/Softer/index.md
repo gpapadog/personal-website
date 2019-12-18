@@ -32,7 +32,8 @@ featured: false
 links:
 - name: "arXiv"
   url: https://arxiv.org/abs/1910.09699
-# url_pdf: files/hospitals.pdf
+- name: "Slides"
+  url: files/Softer_present_short.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
