@@ -3,7 +3,7 @@ title: "A Causal Exposure Response Function with Local Adjustment for Confoundin
 authors:
 - admin
 - Francesca Dominici
-date: "2019-03-15"
+date: "2020-02-20"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,11 +13,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Revisions"
-publication_short: "In Revisions"
+publication: "To appear -- Annals of Applied Statistics"
+publication_short: "To appear. AOAS"
 
 abstract: In the last two decades, ambient levels of air pollution have declined substantially. Yet, as mandated by the Clean Air Act, we must continue to address the following question. Is exposure to levels of air pollution that are well below the National Ambient Air Quality Standards (NAAQS) harmful to human health? Furthermore, the highly contentious nature surrounding environmental regulations necessitates casting this question within a causal inference framework. Several parametric and semi-parametric regression modeling approaches have been used to estimate the exposure-response (ER) curve relating long-term exposure to air pollution and various health outcomes. However, most of these approaches are not formulated in the context of a potential outcome framework for causal inference, adjust for the same set of potential confounders across all levels of exposure, and do not account for model uncertainty regarding covariate selection and the shape of the ER. In this paper, we introduce a Bayesian framework for the estimation of a causal ER curve called LERCA (Local Exposure Response Confounding Adjustment). LERCA allows for a) different confounders and different strength of confounding at the different exposure levels; and b) model uncertainty regarding confounders’ selection and the shape of the ER. Also, LERCA provides a principled way of assessing the observed covariates’ confounding importance at different exposure levels, providing environmental researchers with important information regarding the set of variables to measure and adjust for in regression models. Using simulation studies, we show that state of the art approaches perform poorly in estimating the ER curve in the presence of local confounding. Lastly, LERCA is used on a large data set which includes health, weather, demographic, and pollution information for 5,362 zip codes and for the years of 2011-2013.
 
