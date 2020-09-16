@@ -30,7 +30,7 @@ tags:
 featured: false
 
 links:
-- url_pdf: files/BA_discussion.pdf
+url_pdf: files/BA_discussion.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
