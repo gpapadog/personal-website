@@ -28,7 +28,7 @@ summary: Evaluating the effect of a point pattern treatment on a point pattern o
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: "arXiv"

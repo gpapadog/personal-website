@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Associate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Statistical Science, Duke University
+- name: Department of Statistics, University of Florida
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,6 +25,7 @@ interests:
 - Flexible modeling
 - Policy evaluation
 - Air pollution
+- Political Science
 
 education:
   courses:
@@ -45,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:gp118@duke.edu    #'#contact'
+  link: mailto:gpapadogeorgou@ufl.edu    #'#contact'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=TjCKy1sAAAAJ&hl=en
@@ -68,11 +69,10 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoctoral associate at the department of Statistical Science at Duke University working under the mentorship of professors David Dunson and Fan Li. Previously, I completed my PhD at Harvard University working with professors Francesca Dominici and Corwin Zigler.
+I am an assistant professor in the Department of Statistics at the University of Florida. Previously, I completed my PhD on Biostatistics at Harvard University working with professors Francesca Dominici and Corwin Zigler, followed by two years of postdoctoral training in the department of Statistical Science at Duke University working under the mentorship of professors David Dunson and Fan Li.
 
 My research interests lie broadly in the fields of causal inference and Bayesian modeling.
-I am particularly motivated in providing useful, applicable, and creative solutions to important scientific questions,
-and in developing tools that allow researchers to analyze data properly and flexibly.
+I am particularly motivated in providing useful, applicable, and creative solutions to important scientific questions, and in developing tools that allow researchers to analyze data properly and flexibly.
 
 When I'm not working on statistics, I enjoy running and, more recently, rock climbing.
 I love traveling and learning new languages. Within the next few years, I'm hoping to spend time hiking in Mongolia.
