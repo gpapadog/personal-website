@@ -28,7 +28,7 @@ summary: Causal inference with interference for realistic treatment allocation p
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: "R package"

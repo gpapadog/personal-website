@@ -27,7 +27,7 @@ summary: Incorporating geographical distance in a propensity score matching appr
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: "R package"

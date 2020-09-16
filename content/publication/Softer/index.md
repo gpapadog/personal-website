@@ -27,7 +27,7 @@ summary: Basing estimation of tensor regression coefficients on a soft version o
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: "arXiv"

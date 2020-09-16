@@ -26,7 +26,7 @@ summary: Causal exposure-response curve estimation with local confonding adjustm
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: "R package"
