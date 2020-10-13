@@ -1,5 +1,5 @@
 ---
-title: "Propensity Score Weighting for Causal Subgroup Analysis."
+title: "Propensity Score Weighting for Causal Subgroup Analysis"
 authors:
 - Siyun Yang
 - Elizabeth Lorenzi
@@ -42,7 +42,7 @@ url_code: https://github.com/siyunyang/OW_SGA
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  placement: 2
+  placement: 3
   caption: 'Connect-S plot: Visualizing subgroup balance'
   focal_point: ""
   preview_only: false
