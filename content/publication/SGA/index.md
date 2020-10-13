@@ -20,22 +20,24 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Under review"
+publication_short: "Under review"
 
-#abstract:
-A common goal in comparative effectiveness research is to estimate treatment effects on pre-specified subpopulations of patients. Though widely used in medical research, causal inference methods for such subgroup analysis remain underdeveloped, particularly in observational studies. In this article, we develop a suite of analytical methods and visualization tools for causal subgroup analysis. First, we introduce the estimand of subgroup weighted average treatment effect and provide the corresponding propensity score weighting estimator. We show that balancing covariates within a subgroup bounds the bias of the estimator of subgroup causal effects. Second, we design a new diagnostic graph---the Connect-S plot---for visualizing the subgroup covariate balance. Finally, we propose to use the overlap weighting method to achieve exact balance within subgroups. We further propose a method that combines overlap weighting and LASSO, to balance the bias-variance tradeoff in subgroup analysis. Extensive simulation studies are presented to compare the proposed method with several existing methods. We apply the proposed methods to the Patient-centered Results for Uterine Fibroids (COMPARE-UF) registry data to evaluate alternative management options for uterine fibroids for relief of symptoms and quality of life.
+abstract: A common goal in comparative effectiveness research is to estimate treatment effects on pre-specified subpopulations of patients. Though widely used in medical research, causal inference methods for such subgroup analysis remain underdeveloped, particularly in observational studies. In this article, we develop a suite of analytical methods and visualization tools for causal subgroup analysis. First, we introduce the estimand of subgroup weighted average treatment effect and provide the corresponding propensity score weighting estimator. We show that balancing covariates within a subgroup bounds the bias of the estimator of subgroup causal effects. Second, we design a new diagnostic graph---the Connect-S plot---for visualizing the subgroup covariate balance. Finally, we propose to use the overlap weighting method to achieve exact balance within subgroups. We further propose a method that combines overlap weighting and LASSO, to balance the bias-variance tradeoff in subgroup analysis. Extensive simulation studies are presented to compare the proposed method with several existing methods. We apply the proposed methods to the Patient-centered Results for Uterine Fibroids (COMPARE-UF) registry data to evaluate alternative management options for uterine fibroids for relief of symptoms and quality of life.
 
 
 # Summary. An optional shortened abstract.
-#summary:
+summary: Causal inference for subgroup analysis and the Connect-S plot.
 
 tags:
 - Source Themes
 featured: false
 
 links:
+- name: "arXiv"
+  url: https://arxiv.org/abs/2010.02121
 url_pdf: files/SGA.pdf
+url_code: https://github.com/siyunyang/OW_SGA
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
