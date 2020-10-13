@@ -1,0 +1,61 @@
+---
+title: "Propensity Score Weighting for Causal Subgroup Analysis."
+authors:
+- Siyun Yang
+- Elizabeth Lorenzi
+- admin
+- Daniel M. Wojdyla
+- Fan Li
+- Laine E. Thomas
+date: "2020-10-05"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+
+# Publication name and optional abbreviated publication name.
+publication: ""
+publication_short: ""
+
+#abstract:
+A common goal in comparative effectiveness research is to estimate treatment effects on pre-specified subpopulations of patients. Though widely used in medical research, causal inference methods for such subgroup analysis remain underdeveloped, particularly in observational studies. In this article, we develop a suite of analytical methods and visualization tools for causal subgroup analysis. First, we introduce the estimand of subgroup weighted average treatment effect and provide the corresponding propensity score weighting estimator. We show that balancing covariates within a subgroup bounds the bias of the estimator of subgroup causal effects. Second, we design a new diagnostic graph---the Connect-S plot---for visualizing the subgroup covariate balance. Finally, we propose to use the overlap weighting method to achieve exact balance within subgroups. We further propose a method that combines overlap weighting and LASSO, to balance the bias-variance tradeoff in subgroup analysis. Extensive simulation studies are presented to compare the proposed method with several existing methods. We apply the proposed methods to the Patient-centered Results for Uterine Fibroids (COMPARE-UF) registry data to evaluate alternative management options for uterine fibroids for relief of symptoms and quality of life.
+
+
+# Summary. An optional shortened abstract.
+#summary:
+
+tags:
+- Source Themes
+featured: false
+
+links:
+url_pdf: files/SGA.pdf
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Connect-S plot: Visualizing subgroup balance'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
+
