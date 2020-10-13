@@ -42,7 +42,6 @@ url_code: https://github.com/siyunyang/OW_SGA
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  placement: 3
   caption: 'Connect-S plot: Visualizing subgroup balance'
   focal_point: ""
   preview_only: false
