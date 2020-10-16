@@ -1,5 +1,5 @@
 ---
-title: Discussion of "Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects" by Hahn, Murray and Carvalho.
+title: Discussion of \"Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects\" by Hahn, Murray and Carvalho.
 authors:
 - admin
 - Fan Li
