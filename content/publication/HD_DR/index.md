@@ -17,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Revisions"
-publication_short: "In Revisions"
+publication: "Biometrics"
+publication_short: "Biometrics"
 
 abstract: We introduce a framework for estimating causal effects of binary and continuous treatments in high dimensions. The proposed framework extends many existing estimators introduced in the causal inference literature to high-dimensional settings. We discuss how posterior distributions of any treatment and outcome model can be used together with any causal estimator that is defined as a function of data, and treatment and outcome models (e.g. inverse probability weighted or doubly robust estimator). We propose an approach to uncertainty quantification of causal estimators that utilizes posterior distributions of model parameters that (1) results in good frequentist properties in small samples, (2) is based on a single MCMC, and (3) improves over frequentist measures of uncertainty which rely on asymptotic properties. We show that, for the doubly robust estimator, the posterior contraction rate is the product of the contraction rates of the treatment and outcome models. We consider a flexible framework for modeling the treatment and outcome processes within the Bayesian paradigm that reduces model dependence, accommodates nonlinearity, and achieves dimension reduction of the covariate space. We illustrate the ability of the proposed approach to flexibly estimate causal effects in high dimensions and appropriately quantify uncertainty, and show that it performs well relative to existing approaches. Finally, we estimate the effect of continuous environmental exposures on cholesterol and triglyceride levels. An R package is available at github.com/jantonelli111/DoublyRobustHD.
 

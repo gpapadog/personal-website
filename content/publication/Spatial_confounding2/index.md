@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Revisions"
-publication_short: "In Revisions"
+publication: "Annals of Applied Statistics"
+publication_short: "AOAS"
 
 abstract: Confounding by unmeasured spatial variables has received some attention in the spatial statistics and causal inference literatures, but concepts and approaches have remained largely separated. In this paper, we aim to bridge these distinct strands of statistics by considering unmeasured spatial confounding within a causal inference framework, and estimating effects using outcome regression tools popular within the spatial literature. First, we show how using spatially correlated random effects in the outcome model, an approach common among spatial statisticians, does not necessarily mitigate bias due to spatial confounding, a previously published but not universally known result. Motivated by the bias term of commonly-used estimators, we propose an affine estimator which addresses this deficiency. We discuss how unbiased estimation of causal parameters in the presence of unmeasured spatial confounding can only be achieved under an untestable set of assumptions which will often be application-specific. We provide a set of assumptions which describe how the exposure and outcome of interest relate to the unmeasured variables, and which is sufficient for identification of the causal effect based on the observed data. We examine identifiability issues through the lens of restricted maximum likelihood estimation in linear models, and implement our method using a fully Bayesian approach applicable to any type of outcome variable. This work is motivated by and used to estimate the effect of county-level limited access to supermarkets on the rate of cardiovascular disease deaths in the elderly across the whole continental United States. Even though standard approaches return null or protective effects, our approach uncovers evidence of unobserved spatial confounding, and indicates that limited supermarket access has a harmful effect on cardiovascular mortality.
 
