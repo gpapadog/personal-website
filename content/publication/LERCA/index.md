@@ -33,6 +33,8 @@ links:
   url: https://github.com/gpapadog/LERCA
 - name: "arXiv"
   url: https://arxiv.org/abs/1806.00928
+- name: "Journal"
+  url: https://projecteuclid.org/euclid.aoas/1593449329
 # url_pdf: files/
 #url_code: https://github.com/gpapadog/LERCA
 url_dataset: ''
