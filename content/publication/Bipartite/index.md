@@ -3,7 +3,7 @@ title: "Bipartite Causal Inference with Interference"
 authors:
 - Corwin M. Zigler
 - admin
-date: "2019-10-23"
+date: "2021-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,6 +31,8 @@ featured: false
 links:
 - name: "Arxiv"
   url: https://arxiv.org/abs/1807.08660
+- name: "Journal"
+  url: https://projecteuclid.org/euclid.ss/1608541221
 url_pdf: files/bipartite.pdf
 url_code: ''
 url_dataset: ''
