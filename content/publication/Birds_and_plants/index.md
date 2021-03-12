@@ -25,7 +25,7 @@ abstract: Climate change and reductions in natural habitats necessitate that we 
 
 
 # Summary. An optional shortened abstract.
-summary: We propose a latent factor interaction model for networks measure with error, and use it to address the geographic and taxonomic bias of ecological studies of species' interactions.
+summary: We propose a latent factor interaction model for networks measure with error, and a variable importance metric for latent models. We use the model to address the geographic and taxonomic bias of ecological studies of species' interactions, and identify the important bird and plant covariates for forming and detecting interactions.
 
 tags:
 - Source Themes
@@ -46,9 +46,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Multiplicative relationship of species traits for the probability of interaction'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
