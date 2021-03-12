@@ -25,7 +25,7 @@ abstract: Climate change and reductions in natural habitats necessitate that we 
 
 
 # Summary. An optional shortened abstract.
-summary: A latent factor interaction model for networks measure with error: Addressing the geographic and taxonomic bias of ecological studies of species' interactions.
+summary: We propose a latent factor interaction model for networks measure with error, and use it to address the geographic and taxonomic bias of ecological studies of species' interactions.
 
 tags:
 - Source Themes
