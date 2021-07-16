@@ -2,7 +2,7 @@
 title: "Discussion of 'Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects' by Hahn, Murray and Carvalho"
 authors:
 - admin
-- Fan Li
+- fan_li_duke
 date: "2020-09-01"
 doi: ""
 

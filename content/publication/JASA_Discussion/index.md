@@ -2,7 +2,7 @@
 title: "Discussion of 'Penalized Spline of Propensity Methods for Treatment Comparison'"
 authors:
 - admin
-- Fan Li
+- fan_li_duke
 date: "2019-04-19"
 doi: ""
 

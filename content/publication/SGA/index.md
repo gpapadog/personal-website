@@ -5,7 +5,7 @@ authors:
 - Elizabeth Lorenzi
 - admin
 - Daniel M. Wojdyla
-- Fan Li
+- fan_li_duke
 - Laine E. Thomas
 date: "2020-10-05"
 doi: ""

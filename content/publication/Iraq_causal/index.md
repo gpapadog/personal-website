@@ -4,7 +4,7 @@ authors:
 - admin
 - Kosuke Imai
 - Jason Lyall
-- Fan Li
+- fan_li_duke
 date: "2020-03-31"
 doi: ""
 
