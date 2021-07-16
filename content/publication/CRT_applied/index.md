@@ -1,7 +1,7 @@
 ---
 title: "Clarifying Selection Bias in Cluster Randomized Trials: Estimands and Estimation"
 authors:
-- Fan Li
+- fan_li_duke
 - Zizhong Tian
 - Jennifer Bobb
 - admin
