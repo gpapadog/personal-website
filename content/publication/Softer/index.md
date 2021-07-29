@@ -32,6 +32,8 @@ featured: true
 links:
 - name: "arXiv"
   url: https://arxiv.org/abs/1910.09699
+- name: "PDF"
+  url: files/Softer.pdf
 - name: "Slides"
   url: files/Softer_present_short.pdf
 url_code: ''
