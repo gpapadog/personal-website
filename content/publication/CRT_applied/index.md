@@ -1,5 +1,5 @@
 ---
-title: "Clarifying Selection Bias in Cluster Randomized Trials: Estimands and Estimation"
+title: "Clarifying Selection Bias in Cluster Randomized Trials"
 authors:
 - fan_li_duke
 - Zizhong Tian
