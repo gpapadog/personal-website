@@ -35,6 +35,8 @@ links:
   url: https://arxiv.org/abs/1910.09699
 - name: "PDF"
   url: files/Softer.pdf
+- name: "Journal"
+  url: https://www.jmlr.org/papers/v22/20-476.html
 - name: "Slides"
   url: files/Softer_present_short.pdf
 url_code: ''
