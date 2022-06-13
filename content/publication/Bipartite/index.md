@@ -34,7 +34,7 @@ links:
 - name: "Journal"
   url: https://projecteuclid.org/euclid.ss/1608541221
 url_pdf: files/bipartite.pdf
-url_code: ''
+url_code: https://github.com/gpapadog/Bipartite_Interference
 url_dataset: ''
 url_poster: ''
 url_project: ''
