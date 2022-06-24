@@ -30,6 +30,8 @@ featured: false
 
 links:
 url_pdf: files/Discussion_spatial.pdf
+- name: "Journal"
+  url: https://onlinelibrary.wiley.com/doi/10.1111/biom.13655
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
