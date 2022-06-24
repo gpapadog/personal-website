@@ -29,9 +29,10 @@ tags:
 featured: false
 
 links:
-url_pdf: files/Discussion_spatial.pdf
 - name: "Journal"
   url: https://onlinelibrary.wiley.com/doi/10.1111/biom.13655
+url_pdf: files/Discussion_spatial.pdf
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
