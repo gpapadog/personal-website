@@ -33,6 +33,8 @@ featured: true
 links:
 - name: "arXiv"
   url: https://arxiv.org/abs/2003.13555
+- name: "Journal"
+  url: http://doi.org/10.1111/rssb.12548 
 url_pdf: files/Iraq_Causal.pdf
 url_code: ''
 url_dataset: ''
