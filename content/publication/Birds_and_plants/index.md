@@ -34,6 +34,10 @@ featured: true
 links:
 - name: "Arxiv"
   url: https://arxiv.org/abs/2103.05557
+- name: "R package"
+  url: https://github.com/gpapadog/BiasedNetwork
+- name: "Analysis"
+  url: https://github.com/gpapadog/Bird_Plant_Interactions
 url_pdf: files/birds_and_plants.pdf
 url_code: ''
 url_dataset: 'https://doi.org/10.1002/ecy.1818'
@@ -42,10 +46,6 @@ url_project: ''
 url_slides: files/slides_birds_plants.pdf
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=kK0VW8q2a80'
-- name: "R package"
-  url: https://github.com/gpapadog/BiasedNetwork
-- name: "Analysis"
-  url: https://github.com/gpapadog/Bird_Plant_Interactions
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
