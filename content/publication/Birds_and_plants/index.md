@@ -39,9 +39,11 @@ url_code: ''
 url_dataset: 'https://doi.org/10.1002/ecy.1818'
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: files/slides_birds_plants.pdf
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=kK0VW8q2a80'
+- name: "R package"
+  url: https://github.com/gpapadog/BiasedNetwork
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
