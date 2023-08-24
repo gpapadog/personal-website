@@ -35,6 +35,8 @@ links:
   url: https://arxiv.org/abs/2003.13555
 - name: "Journal"
   url: http://doi.org/10.1111/rssb.12548 
+- name: "R package"
+  url: https://cran.r-project.org/web/packages/geocausal/index.html
 url_pdf: files/Iraq_Causal.pdf
 url_code: ''
 url_dataset: ''
