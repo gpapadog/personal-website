@@ -29,7 +29,7 @@ summary: When recruitment of units in a cluster randomized experiment occurs aft
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 url_pdf: files/CRT.pdf
