@@ -29,10 +29,10 @@ publication_short: ""
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
-url_pdf: files/CRT_applied.pdf
+url_pdf: files/CRT.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
