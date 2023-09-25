@@ -21,7 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: In cluster randomized experiments, units are often recruited after the random cluster assignment, and data are only available for the recruited sample.  Post randomization recruitment can lead to selection bias, inducing systematic differences between the overall and the recruited populations, and between the recruited intervention and control arms.
+abstract: In cluster randomized experiments, units are often recruited after the random cluster assignment, and data are only available for the recruited sample.  Post randomization recruitment can lead to selection bias, inducing systematic differences between the overall and the recruited populations, and between the recruited intervention and control arms. In this setting, we define causal estimands for the overall and the recruited populations. We first show that if units select their cluster independently of the treatment assignment, cluster randomization implies individual randomization in the overall population.
 
 
 # Summary. An optional shortened abstract.
