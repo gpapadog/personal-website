@@ -25,7 +25,7 @@ abstract: In cluster randomized experiments, units are often recruited after the
 
 
 # Summary. An optional shortened abstract.
-#summary:
+summary: In cluster randomized experiments with selection bias due to recruitment, data are often only available on those that were recruited. Based on a principal stratification framework, we show that causal effects on the overall population are identifiable based on the recruited sample only.
 
 tags:
 - Source Themes
