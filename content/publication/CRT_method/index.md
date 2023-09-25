@@ -21,7 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: In cluster randomized experiments, units are often recruited after the random cluster assignment, and data are only available for the recruited sample.
+abstract: In cluster randomized experiments, units are often recruited after the random cluster assignment, and data are only available for the recruited sample.  Post randomization recruitment can lead to selection bias, inducing systematic differences between the overall and the recruited populations, and between the recruited intervention and control arms.
 
 
 # Summary. An optional shortened abstract.
