@@ -74,5 +74,4 @@ I am an assistant professor in the Department of Statistics at the University of
 My research interests lie broadly in the fields of causal inference and Bayesian modeling.
 I am particularly motivated in providing useful, applicable, and creative solutions to important scientific questions, and in developing tools that allow researchers to analyze data properly and flexibly.
 
-When I'm not working on statistics, I enjoy running and, more recently, rock climbing.
-I love traveling and learning new languages. Within the next few years, I'm hoping to spend time hiking in Mongolia.
+When I'm not working on statistics, I enjoy running and rock climbing. I like to grow my own vegetables, though they don't always survive. I love traveling and learning new languages. Within the next few years, I'm hoping to spend time hiking in Mongolia.
