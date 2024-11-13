@@ -7,7 +7,7 @@ authors:
 - Jason H. Wasfy
 - Corwin M. Zigler
 - Fabrizia Mealli
-date: "2023-01-03"
+date: "2023-01-05"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +35,9 @@ featured: false
 links:
 - name: "arXiv"
   url: https://arxiv.org/abs/1809.09590
-url_pdf: files/hospitals.pdf
+- name: "Journal"
+  url: https://link.springer.com/article/10.1007/s10742-022-00294-8
+# url_pdf: files/hospitals.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
