@@ -37,7 +37,7 @@ links:
   url: https://arxiv.org/abs/1809.09590
 - name: "Journal"
   url: https://link.springer.com/article/10.1007/s10742-022-00294-8
-# url_pdf: files/hospitals.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
