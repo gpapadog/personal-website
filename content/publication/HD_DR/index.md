@@ -36,7 +36,7 @@ links:
   url: https://arxiv.org/abs/1805.04899
 - name: "Journal"
   url: https://doi.org/10.1111/biom.13417
-url_pdf: files/HD_DR.pdf
+#url_pdf: files/HD_DR.pdf
 #url_code: 
 url_dataset: ''
 url_poster: ''
