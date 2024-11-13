@@ -3,7 +3,7 @@ title: "Bayesian inference for aggregated Hawkes processes"
 authors:
 - Lingxiao Zhou
 - admin
-date: "2022-12-01"
+date: "2024-10-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: The Hawkes process, a self-exciting point process, has a wide range of applications in modeling earthquakes, social networks and stock markets. The established estimation process requires that researchers have access to the exact time stamps and marks. However, available data are often rounded or aggregated. We develop a Bayesian estimation procedure for the parameters of a Hawkes process based on aggregated data. Our approach is developed for temporal, spatio-temporal, and mutually exciting Hawkes processes where data are available over discrete time periods and regions. The method is demonstrated on simulated temporal and spatio-temporal data in the presence of one or more interacting processes, and under varying coarseness of data aggregation. Finally, we analyze spatio-temporal point pattern data of insurgent attacks in Iraq from October to December 2006, and we find coherent results across different time and space aggregations.
+abstract: The Hawkes process, a self-exciting point process, has a wide range of applications in modeling earthquakes, social networks and stock markets. The established estimation process requires that researchers have access to the exact time stamps and spatial information. However, available data are often rounded or aggregated. We develop a Bayesian estimation procedure for the parameters of a Hawkes process based on aggregated data. Our approach is developed for temporal, spatio-temporal, and mutually exciting Hawkes processes where data are available over discrete time periods and regions. We show theoretically that the parameters of the Hawkes process are identifiable from aggregated data under general specifications. We demonstrate the method on simulated data under various model specifications in the presence of one or more interacting processes, and under varying coarseness of data aggregation. Finally, we examine the internal and cross-excitation effects of airstrikes and insurgent violence events from February 2007 to June 2008, with some data aggregated by day.
 
 
 # Summary. An optional shortened abstract.
