@@ -3,7 +3,7 @@ title: "Mitigating Unobserved spatial confounding when estimating the effect of 
 authors:
 - Patrick Schnell
 - admin
-date: "2020-03-07"
+date: "2020-12-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,7 +13,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Annals of Applied Statistics"
@@ -33,6 +33,8 @@ links:
   url: https://arxiv.org/abs/1907.12150
 - name: "Slides"
   url: files/slides_SpatialConfounding2.pdf
+- name: "Journal"
+  url: https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-4/Mitigating-unobserved-spatial-confounding-when-estimating-the-effect-of-supermarket/10.1214/20-AOAS1377.full
 # url_pdf: files/hospitals.pdf
 url_code: 'https://github.com/schnellp/causal-spatial'
 url_dataset: ''
