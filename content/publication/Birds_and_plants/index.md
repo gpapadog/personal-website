@@ -5,7 +5,7 @@ authors:
 - Carolina Bello
 - Otso Ovaskainen
 - David B. Dunson
-date: "2023-04-23"
+date: "2023-06-16"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,13 +32,15 @@ tags:
 featured: true
 
 links:
-- name: "Arxiv"
+- name: "Journal"
+  url: https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2208390
+- name: "arXiv"
   url: https://arxiv.org/abs/2103.05557
 - name: "R package"
   url: https://github.com/gpapadog/BiasedNetwork
 - name: "Analysis"
   url: https://github.com/gpapadog/Bird_Plant_Interactions
-url_pdf: files/birds_and_plants.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: 'https://doi.org/10.1002/ecy.1818'
 url_poster: ''
