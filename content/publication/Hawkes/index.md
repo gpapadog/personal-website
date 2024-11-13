@@ -30,7 +30,7 @@ tags:
 featured: true
 
 links:
-- name: "Arxiv"
+- name: "arXiv"
   url: http://arxiv.org/abs/2211.16552
 url_code: 'https://github.com/lingxiaozhou/Bayesian-Inference-for-Aggregated-Hawkes-Processes'
 url_pdf: ''

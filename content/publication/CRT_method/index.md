@@ -5,7 +5,7 @@ authors:
 - Bo Liu
 - fan_li_yale
 - fan_li_duke
-date: "2023-09-14"
+date: "2024-10-11"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: In cluster randomized experiments, units are often recruited after the random cluster assignment, and data are only available for the recruited sample.  Post-randomization recruitment can lead to selection bias, inducing systematic differences between the overall and the recruited populations, and between the recruited intervention and control arms. In this setting, we define causal estimands for the overall and the recruited populations. We first show that if units select their cluster independently of the treatment assignment, cluster randomization implies individual randomization in the overall population. We then prove that under the assumption of ignorable recruitment, the average treatment effect on the recruited population can be consistently estimated from the recruited sample using inverse probability weighting. Generally we cannot identify the average treatment effect on the overall population. Nonetheless, we show, via a principal stratification formulation, that one can use weighting of the recruited sample to identify treatment effects on two meaningful subpopulations of the overall population, units who would be recruited into the study regardless of the assignment, and units who would be recruited in the study under treatment but not under control. We develop a corresponding estimation strategy and a sensitivity analysis method for checking the ignorable recruitment assumption.
+abstract: In cluster randomized experiments, individuals are often recruited after the cluster treatment assignment, and data are typically only available for the recruited sample. Post-randomization recruitment can lead to selection bias, inducing systematic differences between the overall and the recruited populations, and between the recruited intervention and control arms. In this setting, we define causal estimands for the overall and the recruited populations. We prove, under the assumption of ignorable recruitment, that the average treatment effect on the recruited population can be consistently estimated from the recruited sample using inverse probability weighting. Generally we cannot identify the average treatment effect on the overall population. Nonetheless, we show, via a principal stratification formulation, that one can use weighting of the recruited sample to identify treatment effects on two meaningful subpopulations of the overall population: individuals who would be recruited into the study regardless of the assignment, and individuals who would be recruited into the study under treatment but not under control. We develop an estimation strategy and a sensitivity analysis approach for checking the ignorable recruitment assumption. The proposed methods are applied to the ARTEMIS cluster randomized trial, where removing co-payment barriers increases the persistence of P2Y12 inhibitor among the always-recruited population.
 
 
 # Summary. An optional shortened abstract.
@@ -32,6 +32,10 @@ tags:
 featured: true
 
 links:
+- name: "arXiv"
+  url: https://arxiv.org/abs/2309.07365
+- name: "R package"
+  url: https://github.com/gpapadog/CRTrecruit
 url_pdf: files/CRT.pdf
 
 # Featured image
