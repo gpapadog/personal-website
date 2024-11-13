@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Scholars from diverse fields now use highly disaggregated ("microlevel") data with fine-grained spatial (e.g., locations of villages and individuals) and temporal (days, hours,or even seconds) dimensions to test their theories. Despite the proliferation of these data,however, statistical methods for causal inference with spatio-temporal data remain under-developed. We introduce an R package, geocausal, that enables researchers to implement causal inference methods for highly disaggregated spatio-temporal data. The geocausal package implements two necessary steps for spatio-temporal causal inference: (1) preparing the data and (2) estimating causal effects.  The geocausal package allows users to effectively use fine-grained spatio-temporal data, test counterfactual scenarios that have spatial and temporal dimensions, and visualize each step efficiently.  We illustrate the capabilities of the geocausal package by analyzing the US airstrikes and insurgent attacks in Iraq over various spatial and temporal windows
+abstract: Scholars from diverse fields now use highly disaggregated ("microlevel") data with fine-grained spatial (e.g., locations of villages and individuals) and temporal (days, hours,or even seconds) dimensions to test their theories. Despite the proliferation of these data,however, statistical methods for causal inference with spatio-temporal data remain under-developed. We introduce an R package, geocausal, that enables researchers to implement causal inference methods for highly disaggregated spatio-temporal data. The geocausal package implements two necessary steps for spatio-temporal causal inference: (1) preparing the data and (2) estimating causal effects. The geocausal package allows users to effectively use fine-grained spatio-temporal data, test counterfactual scenarios that have spatial and temporal dimensions, and visualize each step efficiently. We illustrate the capabilities of the geocausal package by analyzing the US airstrikes and insurgent attacks in Iraq over various spatial and temporal windows.
 
 
 # Summary. An optional shortened abstract.
@@ -48,7 +48,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
