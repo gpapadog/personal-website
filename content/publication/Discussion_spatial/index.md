@@ -2,7 +2,7 @@
 title: "Discussion of the manuscript: 'Spatial+ a novel approach to spatial confounding' by Dupont, Wood and Augustin"
 authors:
 - admin
-date: "2021-07-03"
+date: "2022-06-17"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ featured: false
 links:
 - name: "Journal"
   url: https://onlinelibrary.wiley.com/doi/10.1111/biom.13655
-url_pdf: files/Discussion_spatial.pdf
+# url_pdf: files/Discussion_spatial.pdf
 
 
 # Featured image
