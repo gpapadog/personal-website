@@ -3,7 +3,7 @@ title: "A Causal Exposure Response Function with Local Adjustment for Confoundin
 authors:
 - admin
 - Francesca Dominici
-date: "2020-02-20"
+date: "2020-06-20"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
