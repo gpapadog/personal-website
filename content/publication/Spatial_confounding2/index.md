@@ -34,7 +34,7 @@ links:
 - name: "Slides"
   url: files/slides_SpatialConfounding2.pdf
 - name: "Journal"
-  url: https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-4/Mitigating-unobserved-spatial-confounding-when-estimating-the-effect-of-supermarket/10.1214/20-AOAS1377.full
+  url: https://doi.org/10.1214/20-AOAS1377
 # url_pdf: files/hospitals.pdf
 url_code: 'https://github.com/schnellp/causal-spatial'
 url_dataset: ''
