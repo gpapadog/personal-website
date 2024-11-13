@@ -6,7 +6,7 @@ authors:
 - Jennifer Bobb
 - admin
 - fan_li_yale
-date: "2021-10-04"
+date: "2022-02-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -33,7 +33,11 @@ tags:
 featured: false
 
 links:
-url_pdf: files/CRT_applied.pdf
+- name: "arXiv"
+  url: https://arxiv.org/abs/2107.07967
+- name: "Journal"
+  url: https://journals.sagepub.com/doi/abs/10.1177/17407745211056875
+#url_pdf: files/CRT_applied.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
