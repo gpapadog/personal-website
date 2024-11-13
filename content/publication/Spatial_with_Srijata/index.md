@@ -3,7 +3,7 @@ title: "Spatial causal inference in the presence of unmeasured confounding and i
 authors:
 - admin
 - Srijata Samanta
-date: "2023-03-14"
+date: "2024-10-14"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Causal inference in spatial settings is met with unique challenges and opportunities. On one hand, a unit's outcome can be affected by the exposure at many locations, leading to interference. On the other hand, unmeasured spatial variables can confound the effect of interest. Our work has two overarching goals. First, using causal diagrams, we illustrate that spatial confounding and interference can manifest as each other, meaning that investigating the presence of one can lead to wrongful conclusions in the presence of the other, and that statistical dependencies in the exposure variable can render standard analyses invalid. This can have crucial implications for analyzing data with spatial or other dependencies, and for understanding the effect of interventions on dependent units. Secondly, we propose a parametric approach to mitigate bias from local and neighborhood unmeasured spatial confounding and account for interference simultaneously. This approach is based on simultaneous modeling of the exposure and the outcome while accounting for the presence of spatially-structured unmeasured predictors of both variables. We illustrate our approach with a simulation study and with an analysis of the local and interference effects of sulfur dioxide emissions from power plants on cardiovascular mortality.
+abstract: This manuscript bridges the divide between causal inference and spatial statistics, presenting novel insights for causal inference in spatial data analysis, and establishing how tools from spatial statistics can be used to draw causal inferences. We introduce spatial causal graphs to highlight that spatial confounding and interference can be entangled, in that investigating the presence of one can lead to wrongful conclusions in the presence of the other. Moreover, we show that spatial dependence in the exposure variable can render standard analyses invalid, which can lead to erroneous conclusions. To remedy these issues, we propose a Bayesian parametric approach based on tools commonly-used in spatial statistics. This approach simultaneously accounts for interference and mitigates bias resulting from local and neighborhood unmeasured spatial confounding. From a Bayesian perspective, we show that incorporating an exposure model is necessary, and we theoretically prove that all model parameters are identifiable, even in the presence of unmeasured confounding. To illustrate the approach's effectiveness, we provide results from a simulation study and a case study involving the impact of sulfur dioxide emissions from power plants on cardiovascular mortality.
 
 
 # Summary. An optional shortened abstract.
