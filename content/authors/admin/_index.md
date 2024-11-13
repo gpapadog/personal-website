@@ -22,10 +22,12 @@ bio: My research interests include causal inference and flexible Bayesian modeli
 
 interests:
 - Causal inference
-- Flexible modeling
+- Spatio-temporal data
 - Policy evaluation
-- Air pollution
-- Political Science
+- Environmental sciences
+- Political science
+- Flexible modeling
+
 
 education:
   courses:
