@@ -5,7 +5,7 @@ authors:
 - Bo Liu
 - fan_li_yale
 - fan_li_duke
-date: "2024-10-11"
+date: "2024-12-04"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,11 +15,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Biometrics"
+publication_short: "Biometrics"
 
 abstract: In cluster randomized experiments, individuals are often recruited after the cluster treatment assignment, and data are typically only available for the recruited sample. Post-randomization recruitment can lead to selection bias, inducing systematic differences between the overall and the recruited populations, and between the recruited intervention and control arms. In this setting, we define causal estimands for the overall and the recruited populations. We prove, under the assumption of ignorable recruitment, that the average treatment effect on the recruited population can be consistently estimated from the recruited sample using inverse probability weighting. Generally we cannot identify the average treatment effect on the overall population. Nonetheless, we show, via a principal stratification formulation, that one can use weighting of the recruited sample to identify treatment effects on two meaningful subpopulations of the overall population, individuals who would be recruited into the study regardless of the assignment, and individuals who would be recruited into the study under treatment but not under control. We develop an estimation strategy and a sensitivity analysis approach for checking the ignorable recruitment assumption. The proposed methods are applied to the ARTEMIS cluster randomized trial, where removing co-payment barriers increases the persistence of P2Y12 inhibitor among the always-recruited population.
 
