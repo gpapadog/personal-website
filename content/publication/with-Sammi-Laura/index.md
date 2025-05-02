@@ -1,5 +1,5 @@
 ---
-title: "Effective treatment allocations trategies underpartial interference"
+title: "Effective treatment allocations trategies under partial interference"
 authors:
 - Samantha Dean
 - admin
