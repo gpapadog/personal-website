@@ -1,5 +1,5 @@
 ---
-title: "CausalInferencewhenInterventionUnitsandOutcome Units Differ"
+title: "Causal Inference when Intervention and Outcome Units Differ"
 authors:
 - admin
 - Zhaoyan Song
@@ -30,7 +30,7 @@ summary: Design-based bipartite causal inference
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: "arXiv"
