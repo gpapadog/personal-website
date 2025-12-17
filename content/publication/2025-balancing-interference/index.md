@@ -26,7 +26,7 @@ abstract: A key methodological challenge in observational studies with interfere
 
 
 # Summary. An optional shortened abstract.
-summary: In the presence of interference, IPW estimators offer suffer from high variance. Under low-rank assumptions on the potential outcomes and in the presence of interference, we design optimal covariate balancing estimators. The framework encompasses commonly-invoked assumptions such as stratified or additive interference.
+summary: In the presence of interference, IPW estimators often suffer from high variance. Under low-rank assumptions on the potential outcomes and in the presence of interference, we design optimal covariate balancing estimators. The framework encompasses commonly-invoked assumptions such as stratified or additive interference.
 
 tags:
 - Source Themes

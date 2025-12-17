@@ -26,7 +26,7 @@ abstract: We study causal inference in settings characterized by interference wi
 
 
 # Summary. An optional shortened abstract.
-summary: Design-based bipartite causal inference
+summary: We study design-based causal inference when there are two distinct sets of units, one on which interventions are applied, and one on which the outcome is measured. We introduce various causal estimands and propose weighting estimators from a design-based perspective. We derive the estimators' variance and prove consistency for a growing bipartite graph. In our analysis, we illustrate complications that arise from the positivity assumption, the experimental design, and the structure of the graph.
 
 tags:
 - Source Themes
